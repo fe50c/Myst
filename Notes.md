@@ -111,4 +111,13 @@ volcanoshit rising heat
 obelisk water whisk fwoosh clock
 
 ## Stoneship
+Red page
 
+rose -> skull
+
+rectangular prism that splits down the middle??
+
+
+# Wow
+wow
+very fun game :)
