@@ -24,7 +24,27 @@ count the switches <- go back and remember what to count as well
 ## NUMBERS OR INFO
 7,2,4 in the tower under a key - found! goes to the safe in the cabin
 
-2:40; 2,2,1 - gear puzzle?
+2:40; 2,2,1 - gear puzzle
+
+59 volts - gens obv
+10, 1
+7, 2
+8, 22
+16, 19
+5, 9
+
+Stoneship clues:
+October 11, 1984
+10:04AM
+January 17, 1207
+5:46AM
+November 23, 9791
+6:57PM
+Put these into observatory?
+
+Leaf
+Snake
+Spider
 
 8,9,2,10?
 
@@ -48,6 +68,7 @@ sirrus to achenar - erased something important? says "he is preparing" "take onl
 
 ## Mechanical
 Red page
+Blue page
 Letter Achenar->Sirrus
 "Sirrus:
 Your greed sickens me!
@@ -69,5 +90,25 @@ N: DING
 W: Scuttle
 
 Code:
+1 - Shell open south
+2 - Down rect up
 3 - Sun above trees
 4 - Left half circle
+
+## Selenitic
+Blue page
+Red page
+
+weird 2pm signal idk
+i think "clock bad noise" is second
+
+okay and apparently "wind through ice" is obelisknd. so.
+
+whooshing wind or maybe ocean is vomitspit geysershit
+
+volcanoshit rising heat
+
+obelisk water whisk fwoosh clock
+
+## Stoneship
+
