@@ -12,6 +12,8 @@ son (he suspects Achenar) destroyed books - these travel between ages i think?
 twoer rotation?
 catherine probably got betrayed by son or smth
 
+"The Art" can make change to ages or create them
+
 ## TODO
 investigate line from room
 count the switches <- go back and remember what to count as well
